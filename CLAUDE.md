@@ -10,7 +10,7 @@ Floor plans in this repo are made in a fixed order, from files the user provides
 2. **Template** → `floorplans/2-template/`
    The sheet/page layout the plan goes on (title block, borders, logo area).
 3. **Assets** → `floorplans/3-assets/`
-   The furniture, fixtures, doors, windows, symbols and icons to use.
+   The furniture pieces to use (beds, sofas, tables, chairs, cabinets, etc.).
 4. **Floor plan to create** → `floorplans/4-floor-plan-to-create/`
    The actual layout to draw (sketch, measurements, existing plan, notes).
 
@@ -18,10 +18,10 @@ Finished plans go in `floorplans/output/`.
 
 ## Rules
 
-- Use ONLY the user's assets. Never draw, generate or substitute your own
-  furniture, fixtures, symbols or icons. Place, scale and rotate the provided
+- Use ONLY the user's furniture assets. Never draw, generate or substitute your own
+  furniture. Place, scale and rotate the provided
   files as they are.
-- If the plan needs an asset that was not provided, stop and ask for it.
+- If the plan needs a furniture piece that was not provided, stop and ask for it.
   Do not make a stand-in.
 - Match the reference style; do not invent a new one.
 - Put the plan on the provided template without changing the template's layout.
